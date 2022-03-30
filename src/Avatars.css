@@ -1,0 +1,24 @@
+.avatar-image{
+    margin-top:20px;
+    height:200px;
+    width:auto;
+}
+.avatar-nom{
+    font-size:2rem;
+}
+.avatar-prenom{
+    font-size:1.5rem;
+}
+p.avatar-prenom, .avatar-nom{
+    padding:0px;
+    margin:0px;
+}
+.Photomaton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Affiche{
+    width:80%;
+    margin-bottom:60px;
+}
